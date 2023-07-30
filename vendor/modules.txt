@@ -1,0 +1,12 @@
+# github.com/a-h/gemini v0.0.66
+## explicit; go 1.14
+github.com/a-h/gemini
+github.com/a-h/gemini/log
+github.com/a-h/gemini/mux
+# github.com/jmoiron/sqlx v1.3.5
+## explicit; go 1.10
+github.com/jmoiron/sqlx
+github.com/jmoiron/sqlx/reflectx
+# github.com/mattn/go-sqlite3 v1.14.17
+## explicit; go 1.16
+github.com/mattn/go-sqlite3
